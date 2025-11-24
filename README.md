@@ -1,1 +1,2 @@
-# -ST349-SMT
+# IST349-SMT
+# Repositories that help me do homework
